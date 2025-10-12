@@ -72,9 +72,9 @@ const Deshboard = () => {
                                     </NavLink>
                                 </li>
                                 <li>
-                                    <NavLink to='/deshboard/booking'>
+                                    <NavLink to='/deshboard/paymentHistory'>
                                         <FaList></FaList>
-                                        My Bookings
+                                        Payment History
                                     </NavLink>
                                 </li>
                             </>
